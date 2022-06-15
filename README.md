@@ -1,1 +1,2 @@
-# twitter-sentiment-analysis
+# Twitter Sentiment Analysis project
+*work in progress*
